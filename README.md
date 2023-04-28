@@ -11,4 +11,5 @@ This was made as part of an experiment to attach natural language interfaces to 
 
 `Robot.Ralphie.Final.Demo.mp4` is a short video of a Google Assistant accessing enterprise data APIs in a live demo.
 
-https://github.com/wirtes/cu-mens-football-data/blob/main/Robot.Ralphie.Final.Demo.mp4
+https://user-images.githubusercontent.com/11652957/235160391-03c70cbc-c4ff-4de0-8b35-760da8e375c4.mp4
+
