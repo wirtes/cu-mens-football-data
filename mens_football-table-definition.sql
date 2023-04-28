@@ -1,13 +1,13 @@
 /* Men's Football Table Defnition */
 CREATE TABLE mens_football (
   game_date date,
-  home_away string,
-  opponent string,
-  result string,
+  home_away varchar,
+  opponent varchar,
+  result varchar,
   cu_score int,
   opponent_score int,
-  alt_venue string,
-  bowl string
+  alt_venue varchar,
+  bowl varchar
 );
 
 /* Snowflake File Format */
